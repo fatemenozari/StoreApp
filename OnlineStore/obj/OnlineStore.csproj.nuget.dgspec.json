@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\f.nozari\\RiderProjects\\OnlineStore\\OnlineStore\\OnlineStore.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\f.nozari\\RiderProjects\\OnlineStore\\OnlineStore\\OnlineStore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\f.nozari\\RiderProjects\\OnlineStore\\OnlineStore\\OnlineStore.csproj",
+        "projectName": "OnlineStore",
+        "projectPath": "C:\\Users\\f.nozari\\RiderProjects\\OnlineStore\\OnlineStore\\OnlineStore.csproj",
+        "packagesPath": "C:\\Users\\f.nozari\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\f.nozari\\RiderProjects\\OnlineStore\\OnlineStore\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\f.nozari\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://git.alibaba.ir/api/v4/projects/1524/packages/nuget/index.json": {},
+          "https://git.alibaba.ir/api/v4/projects/1525/packages/nuget/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\f.nozari\\.dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
