@@ -1,0 +1,16 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=50a74ade_002Db09f_002D4499_002D827e_002D0aa254f91a08/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetProductsAsync_ShouldReturnProducts_WhenProductsExist" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::A390C27E-F40E-4C9F-8FD5-34654723CEC4::net8.0::OnlineStoreTests.ProductServiceTests.GetProductsAsync_ShouldReturnProducts_WhenProductsExist&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=540c9642_002De378_002D485a_002D95bf_002D772331cdfe37/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetProductsAsync_ShouldReturnPagedResults_WhenPageSizeIsSet" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::A390C27E-F40E-4C9F-8FD5-34654723CEC4::net8.0::OnlineStoreTests.ProductServiceTests.GetProductsAsync_ShouldReturnPagedResults_WhenPageSizeIsSet&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ab43500e_002D0d16_002D455f_002Dbe5c_002Dbc5a2d0baf22/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetProductsAsync_ShouldReturnPagedResults_WhenPageSizeIsSet #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::A390C27E-F40E-4C9F-8FD5-34654723CEC4::net8.0::OnlineStoreTests.ProductServiceTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
