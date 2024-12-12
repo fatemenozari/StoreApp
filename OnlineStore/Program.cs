@@ -21,7 +21,7 @@ public class Program
         });
 
         builder.Services.AddDbContext<ApplicationDbContext>(options =>
-            options.UseSqlServer("Server=localhost;Database=OnlineStore;Trusted_Connection=True;TrustServerCertificate=True;"));
+            options.UseSqlServer("Server=sqlserver,1433;Database=OnlineStore;User ID=sa;Password=YourStrongPassword123;"));
 
         builder.Services.AddScoped<IProductDecorator, FeaturedProductDecorator>();
         builder.Services.AddScoped<IDiscountStrategy, MobileDiscountStrategy>();

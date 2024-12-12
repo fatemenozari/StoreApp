@@ -1,12 +1,18 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
 	
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=540c9642_002De378_002D485a_002D95bf_002D772331cdfe37/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetProductsAsync_ShouldReturnPagedResults_WhenPageSizeIsSet" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=540c9642_002De378_002D485a_002D95bf_002D772331cdfe37/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetProductsAsync_ShouldReturnPagedResults_WhenPageSizeIsSet" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;xUnit::A390C27E-F40E-4C9F-8FD5-34654723CEC4::net8.0::OnlineStoreTests.ProductServiceTests.GetProductsAsync_ShouldApplyDiscount_WhenConditionsMet&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::A390C27E-F40E-4C9F-8FD5-34654723CEC4::net8.0::OnlineStoreTests.ProductServiceTests.GetProductsAsync_ShouldNotApplyDiscount_WhenConditionsNotMet&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::A390C27E-F40E-4C9F-8FD5-34654723CEC4::net8.0::OnlineStoreTests.ProductServiceTests.GetProductsAsync_ShouldDecorateProducts_WhenConditionsMet&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::A390C27E-F40E-4C9F-8FD5-34654723CEC4::net8.0::OnlineStoreTests.ProductServiceTests.GetProductsAsync_ShouldReturnOnlyProductsInStock&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::A390C27E-F40E-4C9F-8FD5-34654723CEC4::net8.0::OnlineStoreTests.ProductServiceTests.GetProductsAsync_ShouldReturnPagedProducts_WhenProductsExist&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A390C27E-F40E-4C9F-8FD5-34654723CEC4::net8.0::OnlineStoreTests.ProductServiceIntegrationTests.GetProductsAsync_ShouldReturnPagedProductsAndApplyDiscount_WhenConditionsMet&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ba220d2d_002Ded37_002D46cd_002Db9d9_002D223aca66ea06/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetProductsAsync_ShouldReturnPagedProductsAndApplyDiscount_WhenConditionsMet" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::A390C27E-F40E-4C9F-8FD5-34654723CEC4::net8.0::OnlineStoreTests.ProductServiceIntegrationTests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
 	</wpf:ResourceDictionary>
