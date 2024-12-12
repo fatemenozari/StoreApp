@@ -1,0 +1,32 @@
+﻿version: '3.9'
+
+services:
+  webapi:
+    image: mcr.microsoft.com/dotnet/aspnet:7.0
+    container_name: webapi
+    ports:
+      - "8080:8080"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - DOTNET_USE_POLLING_FILE_WATCHER=1
+    build:
+      context: ./OnlineStore
+      dockerfile: Dockerfile
+    depends_on:
+      - sqlserver
+
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: sqlserver
+    ports:
+      - "1433:1433"
+    environment:
+      - ACCEPT_EULA=Y
+      - MSSQL_SA_PASSWORD=YourStrongPassword123
+      - MSSQL_PID=Express
+    volumes:
+      - sqlserver_data:/var/opt/mssql
+
+volumes:
+  sqlserver_data:
+
