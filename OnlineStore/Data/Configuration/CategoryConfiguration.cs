@@ -12,5 +12,9 @@ public class CategoryConfiguration : IEntityTypeConfiguration<Category>
             .WithOne(p => p.Category)
             .HasForeignKey(p => p.CategoryId)
             .OnDelete(DeleteBehavior.Cascade);
+        
+        builder.Property(c => c.Discount)
+            .HasColumnType("decimal(18,2)")
+            .HasPrecision(18, 2); 
     }
 }

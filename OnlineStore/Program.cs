@@ -21,7 +21,8 @@ public class Program
         });
 
         builder.Services.AddDbContext<ApplicationDbContext>(options =>
-            options.UseSqlServer("Server=sqlserver,1433;Database=OnlineStore;User ID=sa;Password=YourStrongPassword123;"));
+            options.UseSqlServer(
+                "Server=sqlserver,1433;Database=OnlineStore;User ID=sa;Password=YourStrongPassword123;TrustServerCertificate=true;"));
 
         builder.Services.AddScoped<IProductDecorator, FeaturedProductDecorator>();
         builder.Services.AddScoped<IDiscountStrategy, MobileDiscountStrategy>();
@@ -32,6 +33,7 @@ public class Program
 
         var scope = app.Services.CreateScope();
         var dbContext = scope.ServiceProvider.GetRequiredService<ApplicationDbContext>();
+        await dbContext.Database.EnsureCreatedAsync();
         await SeedData.InitializeAsync(dbContext);
 
         if (app.Environment.IsDevelopment())

@@ -1,10 +1,4 @@
 C:\Users\f.nozari\RiderProjects\OnlineStore\OnlineStoreTests\bin\Debug\net8.0\CoverletSourceRootsMapping_OnlineStoreTests
-C:\Users\f.nozari\RiderProjects\OnlineStore\OnlineStoreTests\obj\Debug\net8.0\OnlineStoreTests.csproj.AssemblyReference.cache
-C:\Users\f.nozari\RiderProjects\OnlineStore\OnlineStoreTests\obj\Debug\net8.0\OnlineStoreTests.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\f.nozari\RiderProjects\OnlineStore\OnlineStoreTests\obj\Debug\net8.0\OnlineStoreTests.AssemblyInfoInputs.cache
-C:\Users\f.nozari\RiderProjects\OnlineStore\OnlineStoreTests\obj\Debug\net8.0\OnlineStoreTests.AssemblyInfo.cs
-C:\Users\f.nozari\RiderProjects\OnlineStore\OnlineStoreTests\obj\Debug\net8.0\OnlineStoreTests.csproj.CoreCompileInputs.cache
-C:\Users\f.nozari\RiderProjects\OnlineStore\OnlineStoreTests\obj\Debug\net8.0\OnlineStoreTests.sourcelink.json
 C:\Users\f.nozari\RiderProjects\OnlineStore\OnlineStoreTests\bin\Debug\net8.0\testhost.dll
 C:\Users\f.nozari\RiderProjects\OnlineStore\OnlineStoreTests\bin\Debug\net8.0\OnlineStore.deps.json
 C:\Users\f.nozari\RiderProjects\OnlineStore\OnlineStoreTests\bin\Debug\net8.0\OnlineStore.runtimeconfig.json
@@ -186,6 +180,12 @@ C:\Users\f.nozari\RiderProjects\OnlineStore\OnlineStoreTests\bin\Debug\net8.0\ru
 C:\Users\f.nozari\RiderProjects\OnlineStore\OnlineStoreTests\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\f.nozari\RiderProjects\OnlineStore\OnlineStoreTests\bin\Debug\net8.0\OnlineStore.dll
 C:\Users\f.nozari\RiderProjects\OnlineStore\OnlineStoreTests\bin\Debug\net8.0\OnlineStore.pdb
+C:\Users\f.nozari\RiderProjects\OnlineStore\OnlineStoreTests\obj\Debug\net8.0\OnlineStoreTests.csproj.AssemblyReference.cache
+C:\Users\f.nozari\RiderProjects\OnlineStore\OnlineStoreTests\obj\Debug\net8.0\OnlineStoreTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f.nozari\RiderProjects\OnlineStore\OnlineStoreTests\obj\Debug\net8.0\OnlineStoreTests.AssemblyInfoInputs.cache
+C:\Users\f.nozari\RiderProjects\OnlineStore\OnlineStoreTests\obj\Debug\net8.0\OnlineStoreTests.AssemblyInfo.cs
+C:\Users\f.nozari\RiderProjects\OnlineStore\OnlineStoreTests\obj\Debug\net8.0\OnlineStoreTests.csproj.CoreCompileInputs.cache
+C:\Users\f.nozari\RiderProjects\OnlineStore\OnlineStoreTests\obj\Debug\net8.0\OnlineStoreTests.sourcelink.json
 C:\Users\f.nozari\RiderProjects\OnlineStore\OnlineStoreTests\obj\Debug\net8.0\OnlineSt.43371C85.Up2Date
 C:\Users\f.nozari\RiderProjects\OnlineStore\OnlineStoreTests\obj\Debug\net8.0\OnlineStoreTests.dll
 C:\Users\f.nozari\RiderProjects\OnlineStore\OnlineStoreTests\obj\Debug\net8.0\refint\OnlineStoreTests.dll
